@@ -1,0 +1,47 @@
+*{
+	margin: 0;
+	padding: 0;
+	
+}
+.navbar{
+
+border: none;
+background-color: black;
+  color: #e6350e;
+  /* RED */
+}
+
+body{
+	background-color: #5c5538;
+	/* Muddy Brownish */
+	color: black;
+}
+.glyphicon{
+	font-size: 30px;
+	color: #e6350e;
+	/* RED */
+}
+
+.center{
+	width: 85%;
+	background-color: beige;
+
+}
+.container
+{
+	background-color: silver;
+}
+.text-center{
+	font-size: 35px;
+}
+
+h2{
+	text-align: center;
+}
+#myNavbar ul li a {
+	color: #e6350e; 
+	/* RED */
+}
+.navbar-brand{
+font-size: 35px;
+}
